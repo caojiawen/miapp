@@ -1,0 +1,39 @@
+.login-container{
+    background: white;
+    padding: 30px 20px;
+}
+.title{
+    text-align: center;
+}
+.title-icon{
+    background: #FF6B00;
+    color: white;
+    font-size: 30px;
+    padding: 10px;
+    border-radius: 4px;
+}
+.title-text{
+    color: black;
+    font-size: 16px;
+    margin:5px auto;;
+}
+
+.mui-input-group::after,.mui-input-group::before{
+    background: none;
+}
+
+/* 登录按钮 */
+.button-login{
+    background: #FF6B00;
+    line-height: 2.2;
+    color: white;
+    border-radius: 8px;
+    border:1px solid #FF6B00;
+    margin: 20px auto;
+}
+.button-phone{
+    line-height: 2.2;
+    color: black;
+    border-radius: 8px;
+
+}
